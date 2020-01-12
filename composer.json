@@ -1,0 +1,20 @@
+{
+    "name": "daniil/elevator",
+    "description": "elevator",
+    "type": "project",
+    "authors": [
+        {
+            "name": "sabaenum",
+            "email": "godoftaste77@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "classes"
+        },
+        "files": [
+            "config.php"
+        ]
+    }
+}
